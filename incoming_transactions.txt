@@ -1,0 +1,17 @@
+'john','tom',300
+'john','tom',400
+'john','tom',500
+'john','alex',300
+'john','alex',700
+'john','alex',307
+'john','alex',306
+'john','alex',305
+'john','Shaikat',300
+'john','hamim',600
+'john','hamim',600
+'john','hasib',800
+'john','hasib',900
+'john','hamim',400
+'john','hamim',200
+'john','hamim',100
+'john','hamim',10000
